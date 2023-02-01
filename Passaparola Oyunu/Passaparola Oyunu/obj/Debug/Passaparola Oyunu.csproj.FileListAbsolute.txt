@@ -1,0 +1,11 @@
+C:\Users\elifo\Desktop\PROJELERİM\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.exe.config
+C:\Users\elifo\Desktop\PROJELERİM\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.exe
+C:\Users\elifo\Desktop\PROJELERİM\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.pdb
+C:\Users\elifo\Desktop\PROJELERİM\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\PROJELERİM\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\PROJELERİM\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola_Oyunu.Form1.resources
+C:\Users\elifo\Desktop\PROJELERİM\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola_Oyunu.Properties.Resources.resources
+C:\Users\elifo\Desktop\PROJELERİM\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\PROJELERİM\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\PROJELERİM\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.exe
+C:\Users\elifo\Desktop\PROJELERİM\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.pdb
